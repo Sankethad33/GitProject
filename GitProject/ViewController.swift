@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     
     var name  = "Sanket Hadke"
-    var age  = 22
+    var age  = 25
     var Collage = "RGCER"
     
     override func viewDidLoad() {
