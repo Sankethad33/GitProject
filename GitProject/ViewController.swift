@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     var name  = "Sanket Hadke"
     var age  = 25
     var Collage = "RGCER"
-    
+    var Address = "Sneha nagar"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
